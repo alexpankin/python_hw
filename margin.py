@@ -1,5 +1,5 @@
 revenue = int(input('Введите выручку в деньгах: '))
-costs = int(input('Введите издержки: '))
+costs = int(input('Введите издержки в деньгах: '))
 
 
 if revenue < costs:
