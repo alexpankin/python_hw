@@ -4,6 +4,7 @@ def my_func(par_1, par_2, par_3):
     return sum(d)
 print(my_func(par_1 = 12, par_2 = 2, par_3 = 8))
 
+
 # def my_func(*args):
 # numbers = []
 #

@@ -11,3 +11,4 @@ def my_calc():
     arg_3 = arg_1 / arg_2
     return arg_3
 print(f'Частное: ', round(my_calc(), 2))
+
